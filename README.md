@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.svg" alt="Bible Study Tracker Banner" width="100%">
+</p>
+
 # Bible Reading Tracker
 
 A simple, effective Bible reading tracker for Obsidian with automatic progress visualization.
